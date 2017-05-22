@@ -1,0 +1,24 @@
+{
+  "name": "express-backend-angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrobinsonco/express-backend-angular.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lrobinsonco/express-backend-angular/issues"
+  },
+  "homepage": "https://github.com/lrobinsonco/express-backend-angular#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
